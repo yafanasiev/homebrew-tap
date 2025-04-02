@@ -1,4 +1,4 @@
-class TellerAT1 < Formula
+class Teller < Formula
   desc "Secrets management tool for developers built in Go"
   homepage "https://tlr.dev/"
   url "https://github.com/SpectralOps/teller.git",
